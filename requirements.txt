@@ -1,0 +1,7 @@
+numpy 
+pandas
+scikit-learn
+flask 
+matplotlib
+seaborn 
+pip install mysqlx-connector-python
